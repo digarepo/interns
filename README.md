@@ -1,4 +1,5 @@
 # Welcome to Dreamers!
+<img width="3752" height="1691" alt="Screenshot 2025-07-14 173703" src="https://github.com/user-attachments/assets/11f03d6a-7672-4598-8bc0-222851c309a6" />
 
 - This is a shareholders registration and share information management app. Below is the file structure of this app.
 
